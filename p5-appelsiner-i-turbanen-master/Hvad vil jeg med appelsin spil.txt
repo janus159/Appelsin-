@@ -1,0 +1,19 @@
+MDA:
+Mechanics: reglerne for spilet og de helt basale ting spilerne kan gøre 
+Dynamics: spillerens måde at interager med mechanics 
+Aesthetics: De følser spilerne for ved at spille spillet 
+
+
+Sensation: Man kan putte nogle lyder og lækker billider ind
+Fantasy: En fantastisk verden i baggrunden
+Narrative: Man kan ind sætte en historie bag spillet, så være gang man når x vil man få mere historie 
+challenge: hastighed og bevægelses mønster
+Fellowship:multiplayer Lokal/online 
+Discovery: man kunne lave spille pladen større en hvad man kan se og give eksta bonuser/point for at udforske
+Expression: giv spillerne mulighed for at lave om på deres eget spil/ figur 
+Submission: 
+
+
+
+
+Teleportaion af spiller eller appelsiner for at gøre det mere svært (challenge)
